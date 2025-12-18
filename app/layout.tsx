@@ -13,11 +13,6 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "CSE Department | Home",
   description: "Computer Science and Engineering Department Website",
-  icons: {
-    icon: "/favicon.png",
-    shortcut: "/favicon.png",
-    apple: "/favicon.png",
-  },
 };
 
 export default function RootLayout({
